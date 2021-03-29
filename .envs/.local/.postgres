@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=iot
+POSTGRES_USER=VnDwgXfqjBdypOndGBwMvZVbucieHyGC
+POSTGRES_PASSWORD=kKs2VghytdWcxfIUAVs3t7Cs4J2hfhMK46MlYmWHEGaWHSTZlg4jkfrvBGWVD6Qu
